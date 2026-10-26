@@ -9,7 +9,7 @@ Plataforma de gestión de solicitudes que permite recibir, validar, procesar y a
 
 ## Enlaces
 - 📂 Repositorio: https://github.com/santicallegari191-del/Trabajo-Pr-ctico-N-04-Unidad-5
-- 📋 Tablero Ágil GitHub Projects: [PEGAR AQUÍ TU ENLACE DEL TABLERO]
+- 📋 Tablero Ágil GitHub Projects: https://github.com/users/santicallegari191-del/projects/3/views/1
 
 ## Estructura del repositorio
 - `/docs/bpmn/` — Diagramas de proceso en formato editable
